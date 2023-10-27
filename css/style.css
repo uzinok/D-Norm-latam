@@ -175,7 +175,8 @@ img {
 	height: 100%;
 	left: 0;
 	top: 0;
-	width: 100px;
+	width: 200px;
+	text-align: center;
 }
 
 .Header {
